@@ -11,6 +11,14 @@
                 "kind": "build",
                 "isDefault": true
             }
+        },        {
+            "label": "jekyll serve",
+            "type": "shell",
+            "command": "bundle exec jekyll serve",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
         }
     ]
 }

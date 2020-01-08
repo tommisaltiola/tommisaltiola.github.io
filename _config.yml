@@ -6,7 +6,8 @@ favicon: images/favicon.ico # Directory of your favicon (eg. images/favicon.ico)
 name: Tommi Saltiola
 title: Hemp R&D
 email: tommi.saltiola@helsinki.fi
-phone: +358(0)407479512
+phone: "+358407479512"
+
 # website: Your website (eg. https://google.com)(optional)
 
 darkmode: false
@@ -21,10 +22,10 @@ linkedin_username: tommisaltiola
 #youtube_username: jekyll
 
 # Additional icon links
-#additional_links:
-#- title: Link name
+additional_links:
+#- title: 
 #  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#  url: Link url (eg. https://google.com)
+#  url: (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
