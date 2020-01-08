@@ -28,3 +28,13 @@
 #   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Research and development of medical and nutraceutical cannabis products
+# Experience template
+- layout: left
+  company: Saltiola Experience
+  link: www.saltiola.photography
+  job_title: Photo- and videographer
+  dates: 2016 - Now
+  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Landscape and nature photography

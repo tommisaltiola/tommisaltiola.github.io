@@ -4,7 +4,7 @@
   dates: 2018 - Now
   qualification: MSc Student of Plant Production Sciences
   quote: >
-    Short institution or course description (optional)
+#    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
 
@@ -13,6 +13,6 @@
   dates: 2014-2018
   qualification: Bachelor of Natural Resources
   quote: >
-    Short institution or course description (optional)
+#    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Bachelor Thesis about the cannabinoid products from hemp
