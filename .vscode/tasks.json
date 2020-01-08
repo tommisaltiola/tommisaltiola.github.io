@@ -6,7 +6,11 @@
         {
             "label": "jekyll build",
             "type": "shell",
-            "command": "bundle exec jekyll build"
+            "command": "bundle exec jekyll build",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }
