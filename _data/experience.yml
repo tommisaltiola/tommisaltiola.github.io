@@ -5,7 +5,7 @@
   job_title: Hemp Researcher
   dates: 2018 - Now
   quote: >
-   Short description of the company (optional)
+#   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Writing scientific articles about hemp and cannabis
 # Experience template
@@ -15,9 +15,9 @@
   job_title: Job title
   dates: 2018 - Now
   quote: >
-   Research and development of hemp based products
+#   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Research and development of hemp based products
   # Experience template
 - layout: left
   company: Konopti International (Hampputarhasi)
@@ -25,6 +25,6 @@
   job_title: Cannabis Researcher
   dates: 2018 - Now
   quote: >
-   Short description of the company (optional)
+#   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Research and development of medical and nutraceutical cannabis products
