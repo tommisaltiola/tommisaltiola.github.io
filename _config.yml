@@ -7,7 +7,7 @@ name: Tommi Saltiola
 title: Hemp R&D
 email: tommi.saltiola@helsinki.fi
 phone: +358(0)407479512
-#website: Your website (eg. https://google.com)(optional)
+# website: Your website (eg. https://google.com)(optional)
 
 darkmode: false
 
@@ -37,7 +37,7 @@ linkedin_username: tommisaltiola
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/favicon.ico # Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   MSc Student of Plant Production Sciences in the University of Helsinki. Doing hemp and cannabis research as an entrepreneur
 
