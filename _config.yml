@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
+name: Tommi Saltiola
 title: Your job title
 email: Your email (optional)
 phone: Your phone number (optional)
