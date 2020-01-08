@@ -1,13 +1,13 @@
 # Experience template
 - layout: left
   company: Hamppumaa Oy
-  link: Link to company (optional)
-  job_title: Job title
+  link: www.hamppumaa.fi
+  job_title: Hemp Researcher
   dates: 2018 - Now
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Writing scientific articles about hemp and cannabis
 # Experience template
 - layout: left
   company: Suomen Hampputuotteet Oy
@@ -15,16 +15,16 @@
   job_title: Job title
   dates: 2018 - Now
   quote: >
-   Short description of the company (optional)
+   Research and development of hemp based products
   description: | # this will include new lines to allow paragraphs
     Description of role
   # Experience template
 - layout: left
-  company: Suomen Hampputuotteet Oy
-  link: Link to company (optional)
-  job_title: Job title
+  company: Konopti International (Hampputarhasi)
+#  link: Link to company (optional)
+  job_title: Cannabis Researcher
   dates: 2018 - Now
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Research and development of medical and nutraceutical cannabis products
