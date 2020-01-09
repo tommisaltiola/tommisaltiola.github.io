@@ -1,7 +1,7 @@
 # Experience template
 - layout: left
   company: Hamppumaa Oy
-  link: www.hamppumaa.fi
+  link: hamppumaa.fi
   job_title: Hemp Researcher
   dates: 2018 - Now
   quote: >
@@ -11,8 +11,8 @@
 # Experience template
 - layout: left
   company: Suomen Hampputuotteet Oy
-  link: Link to company (optional)
-  job_title: Job title
+#  link: Link to company (optional)
+  job_title: Hemp R&D
   dates: 2018 - Now
   quote: >
 #   Short description of the company (optional)
@@ -31,10 +31,10 @@
 # Experience template
 - layout: left
   company: Saltiola Experience
-  link: www.saltiola.photography
+  link: saltiola.photography
   job_title: Photo- and videographer
   dates: 2016 - Now
   quote: >
-#   Short description of the company (optional)
+#   Side project and beloved hobby
   description: | # this will include new lines to allow paragraphs
-    Landscape and nature photography
+#    Landscape and nature photography

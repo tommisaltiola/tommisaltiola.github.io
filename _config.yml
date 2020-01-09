@@ -4,7 +4,7 @@ favicon: images/favicon.ico # Directory of your favicon (eg. images/favicon.ico)
 
 # Personal info
 name: Tommi Saltiola
-title: Hemp R&D
+title: Cannabis Researcher
 email: tommi.saltiola@helsinki.fi
 phone: "+358407479512"
 
@@ -14,7 +14,7 @@ darkmode: false
 
 # Social links
 twitter_username: saltiola7
-#github_username:  jekyll
+github_username:  tommisaltiola
 #facebook_username: jekyll
 #instagram_username: jekyll
 linkedin_username: tommisaltiola
@@ -22,7 +22,7 @@ linkedin_username: tommisaltiola
 #youtube_username: jekyll
 
 # Additional icon links
-additional_links:
+#additional_links:
 #- title: 
 #  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #  url: (eg. https://google.com)
@@ -34,7 +34,7 @@ additional_links:
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "UA-154923204-2"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -62,8 +62,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  On my freetime I read, write, take pictures and travel
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  On my freetime I read about recent research on my field, self development, business development, leadership, write, take pictures and travel
+  I also develop website with Jekyll and Github pages for my side projects
+  I can work with SPSS
+  I excel in Capture one and Affinity Photo, Also some Affinity Designer
+  
 
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
