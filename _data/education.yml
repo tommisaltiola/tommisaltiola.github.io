@@ -6,7 +6,8 @@
   quote: >
 #    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Focusing on Secondary metabolite production from hemp
+    Secondary Metabolite Production from hemp (Cannabis Sativa) in Outdoor Conditions in Nordic Climate - MSc Thesis in progress
+
 
 - layout: left
   name: University of Applied Sciences of Jyväskylä
@@ -16,3 +17,4 @@
 #    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Bachelor Thesis about the cannabinoid products from hemp
+    Available [here](pdf/Hampun kannabinoidituotteet 4.2018.pdf) in finnish
