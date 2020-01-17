@@ -11,10 +11,28 @@
 
 - layout: left
   name: University of Applied Sciences of Jyväskylä
-  dates: 2014-2018
+  dates: 2018
   qualification: Bachelor of Natural Resources
   quote: >
 #    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Bachelor Thesis about the cannabinoid products from hemp
     Available [here](pdf/Hampun kannabinoidituotteet 4.2018.pdf) in finnish
+    Agrologist certificatin available [here](pdf/JAMK_Scan 15 Dec 2018 at 16.59. Tutkintotodistus. Tommi Saltiola.pdf)
+    Additionally organic farming certification
+    Certification for International Environmental Engineering and Renewable Energy
+
+- layout: left
+  name: Lukio of Joutsa
+  dates: 2014
+  qualification: Bachelor of Natural Resources
+  quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    I did my final exams for Advanced maths, English, Finnish, Geology and Health Science
+    Certification of Graduation available [here](pdf/Lukio todistus. Tommi Saltiola_Scan 15 Dec 2018 at 17.05.pdf)
+    Bachelor Thesis about the cannabinoid products from hemp
+    Available [here](pdf/Hampun kannabinoidituotteet 4.2018.pdf) in finnish
+    Agrologist certificatin available [here](pdf/JAMK_Scan 15 Dec 2018 at 16.59. Tutkintotodistus. Tommi Saltiola.pdf)
+    Additionally organic farming certification
+    Certification for International Environmental Engineering and Renewable Energy
