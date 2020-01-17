@@ -20,7 +20,7 @@
   name: Bachelor Thesis Seminar
   link: https://youtu.be/UzGWAXmHmoA
   quote: >
-    Short overview. Link Thesis also here!
+    Short overview. Available [here](pdf/Hampun kannabinoidituotteet 4.2018.pdf) in finnish
   description: >
     Description about the work on/with the project
 
@@ -47,3 +47,28 @@
     Short overview of the project presentation https://kestavatproteiinit.fi/materiaali/Saltiola.pdf 
   description: >
     Description about the work on/with the project
+
+- layout: top-middle
+  name: Certification of Completition of Unwavering Focus course
+  link: pdf/Certificate of Completion- Dandapani.pdf
+  quote: >
+    Short overview of the project 
+  description: >
+    Description about the work on/with the project
+
+- layout: top-middle
+  name: Certification of Completition of Unwavering Focus course
+  link: pdf/Certificate of Completion- Dandapani.pdf
+  quote: >
+    Short overview of the project 
+  description: >
+    Description about the work on/with the project
+
+- layout: top-middle
+  name: Maaseudun Tulevaisuuden haastattelu Slushissa Agfunderin kanssa Karhunpesäleirin jälkeen
+  link: pdf/14.12.2016. Maaseudun Tulevaisuus. AgFunder_Slush. Tommi Saltiola.pdf
+  quote: >
+    Short overview of the project 
+  description: >
+    Description about the work on/with the project
+
