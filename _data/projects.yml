@@ -1,26 +1,8 @@
 # Project template
-- layout: top-middle
-  name: Yle Documentary
-  link: https://areena.yle.fi/1-4587417?seek=465
+#- layout: top-middle
+  name: 
   github: sproogen/modern-resume-theme
   quote: >
     Short overview of the project
   description: >
     Description about the work on/with the projectk
-
-- layout: top-middle
-  name: Maaseudun Tulevaisuuden haastattelu Slushissa Agfunderin kanssa Karhunpesäleirin jälkeen
-  link: pdf/14.12.2016. Maaseudun Tulevaisuus. AgFunder_Slush. Tommi Saltiola.pdf
-  quote: >
-    Short overview of the project 
-  description: >
-    Description about the work on/with the project
-
-- layout: top-middle
-  name: Korpilahti lehti interview about hemp 
-  link: pdf/korpilahti-lehti. IMG_2104. Tommi Saltiola.jpg
-  quote: >
-    Short overview of the project 
-  description: >
-    Description about the work on/with the project. Presentation available [here](pdf/ScenoProt_esitelmä. Tommi Saltiola.pdf)
-
