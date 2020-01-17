@@ -8,7 +8,7 @@ title: Researcher, Writer, Speaker, Entrepreneur
 email: tommi.saltiola@helsinki.fi
 phone: "+358407479512"
 
-# website: Your website (eg. https://google.com)(optional)
+website: tommi.saltiola.github.io
 
 darkmode: false
 
@@ -42,8 +42,8 @@ google_analytics: "UA-154923204-2"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/favicon.ico # Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  MSc Student of Plant Production Sciences in the University of Helsinki. Doing hemp and cannabis research as an entrepreneur
-  I have international context and networks to the cannabis industry and research
+  MSc. Student of Plant Production Sciences in the University of Helsinki. Doing hemp and cannabis research and development as an entrepreneur in multiple companies. I have international context and networks to the cannabis industry and research. My speciality is research and development of cannabis and hemp based products, writing scientific content for blogs and giving presentations.
+  I'm focused in increasing the scientific research  for cannabis internationally and in Finland.
 
 # Projects Section 
 # projects_title: Online Presence #(Use this to override about projects section title)
@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  On my freetime I read about recent research on my field, self development, business development, leadership, write, take pictures and travel
+  On my freetime I read about recent research on my field, self development, business development, leadership. I also write, take pictures and travel.
   I also develop website with Jekyll and Github pages for my side projects
   I can work with SPSS
   I excel in Capture one and Affinity Photo, Also some Affinity Designer
