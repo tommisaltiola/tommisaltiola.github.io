@@ -1,4 +1,4 @@
-# Site
+# Site 
 repository: tommisaltiola.github.io # Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 favicon: images/favicon.ico # Directory of your favicon (eg. images/favicon.ico)(optional)
 
@@ -41,14 +41,7 @@ google_analytics: "UA-154923204-2"
 about_profile_image: images/favicon.ico # Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   MSc Student of Plant Production Sciences in the University of Helsinki. Doing hemp and cannabis research as an entrepreneur
-
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  I have international context and networks to the cannabis industry and research
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
