@@ -16,11 +16,18 @@
   quote: >
 #    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
+
+    Video about my BSc Thesis seminar about Cannabinoid Products from hemp available (here](https://youtu.be/UzGWAXmHmoA). 
+    Whole original thesis available only [here](pdf/Hampun kannabinoidituotteet 4.2018.pdf)(Not in Theseus) in finnish 
+    presentation [here](pdf/Hampun kannabinoidituotteet. JAMK opinnäytyö seminaari. Tommi Saltiola.pdf)
     Bachelor Thesis about the cannabinoid products from hemp
     Available [here](pdf/Hampun kannabinoidituotteet 4.2018.pdf) in finnish
     Agrologist certificatin available [here](pdf/JAMK_Scan 15 Dec 2018 at 16.59. Tutkintotodistus. Tommi Saltiola.pdf)
     Additionally organic farming certification
     Certification for International Environmental Engineering and Renewable Energy
+    [Hamppukateviljely koe HempRefinelle](pdf/Hamppukateviljely HempRefinelle. Tommi Saltiola.pdf)
+    - I were interviewed by local newspaper [Saarijärveläinen](pdf/hampun_jalostus_TULI Cocktail-esitysJAMK. Tommi Saltiola.pdf) about my JAMK incubato project
+    - [TULI Cocktail JAMK Hemp Food Development Presentation](pdf/hampun_jalostus_TULI Cocktail-esitysJAMK. Tommi Saltiola.pdf)
 
 - layout: left
   name: Lukio of Joutsa
@@ -36,3 +43,12 @@
     Agrologist certificatin available [here](pdf/JAMK_Scan 15 Dec 2018 at 16.59. Tutkintotodistus. Tommi Saltiola.pdf)
     Additionally organic farming certification
     Certification for International Environmental Engineering and Renewable Energy
+
+- layout: left
+  name: Certification of Completition of Unwavering Focus course 
+  dates: 2019
+  qualification: MSc Student of Plant Production Sciences
+  quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Secondary Metabolite Production from hemp (Cannabis Sativa) in Outdoor Conditions in Nordic Climate - MSc Thesis in progress. Certification available [here](pdf/Certificate of Completion- Dandapani.pdf)
