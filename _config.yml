@@ -4,7 +4,7 @@ favicon: images/favicon.ico # Directory of your favicon (eg. images/favicon.ico)
 
 # Personal info
 name: Tommi Saltiola
-title: Cannabis Researcher
+title: Researcher, Writer, Speaker, Entrepreneur
 email: tommi.saltiola@helsinki.fi
 phone: "+358407479512"
 
@@ -25,12 +25,12 @@ linkedin_username: tommisaltiola
 # Additional icon links
 additional_links:
 - title: Authorea
-  icon: fa-authorea
+  icon: fas fa-project-diagram
   url: https://www.authorea.com/users/291588-tommi-saltiola
 
-# - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+- title: ResearchGate
+  icon: fab fa-researchgate # (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: https://www.researchgate.net/profile/Tommi_Saltiola2
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -46,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
   I have international context and networks to the cannabis industry and research
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+# projects_title: Online Presence #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
@@ -61,7 +61,8 @@ more_content: | # this will include new lines to allow paragraphs
   I also develop website with Jekyll and Github pages for my side projects
   I can work with SPSS
   I excel in Capture one and Affinity Photo, Also some Affinity Designer
-  
+
+
 
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 

@@ -1,9 +1,49 @@
 # Project template
-#- layout: top-middle
-#  name: Cannabinoid Products from hemp
-#  link: [Hampun Kannabinoidituotteet](pdf/Hampun kannabinoidituotteet 4.2018.pdf)
-#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-#  quote: >
-#    Short overview of the project (optional)
-#  description: | # this will include new lines to allow paragraphs
-#    Description about the work on/with the project
+- layout: top-middle
+  name: Yle Documentary
+  link: https://areena.yle.fi/1-4587417?seek=465
+  github: sproogen/modern-resume-theme
+  quote: >
+    Short overview of the project
+  description: >
+    Description about the work on/with the project
+
+- layout: top-middle
+  name: Öljyhampun arvoketju seminaari
+  link: https://youtu.be/4ELb5BL6GKc?t=6588
+  quote: >
+    Short overview of the project
+  description: >
+    Description about the work on/with the project
+
+- layout: top-middle
+  name: Bachelor Thesis Seminar
+  link: https://youtu.be/UzGWAXmHmoA
+  quote: >
+    Short overview. Link Thesis also here!
+  description: >
+    Description about the work on/with the project
+
+- layout: top-middle
+  name: MTK - Hampun viljely ja sen mahdollisuudet
+  link: https://youtu.be/0zQcL1gpC8w 
+  quote: >
+    Short overview of the project. Link to presentation https://keski-suomi.mtk.fi/documents/197256/0/Tommi+Hampunviljely+esitys.pdf/a671d6ac-b817-f888-4d69-731126157b7b?t=1555776159517 
+  description: >
+    Description about the work on/with the project
+
+- layout: top-middle
+  name: YLE Interview - Medical marijuana trend slow to take off in Finland
+  link: https://yle.fi/uutiset/osasto/news/medical_marijuana_trend_slow_to_take_off_in_finland/10511557
+  quote: >
+    Short overview of the project
+  description: >
+    Description about the work on/with the project
+
+- layout: top-middle
+  name: Food System Studies JYU Presentation - Vaihtoehtoiset proteiinit KoneAgriassa
+  link: https://www.jyu.fi/fi/ajankohtaista/arkisto/2018/10/vaihtoehtoiset-proteiinit-koneagriassa-1
+  quote: >
+    Short overview of the project presentation https://kestavatproteiinit.fi/materiaali/Saltiola.pdf 
+  description: >
+    Description about the work on/with the project
