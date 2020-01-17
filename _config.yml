@@ -15,6 +15,7 @@ darkmode: false
 # Social links
 twitter_username: saltiola7
 github_username:  tommisaltiola
+orcid_username: 0000-0001-8911-647X
 #facebook_username: jekyll
 #instagram_username: jekyll
 linkedin_username: tommisaltiola
@@ -22,10 +23,11 @@ linkedin_username: tommisaltiola
 #youtube_username: jekyll
 
 # Additional icon links
-#additional_links:
-#- title: 
-#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#  url: (eg. https://google.com)
+additional_links:
+- title: Authorea
+  icon: fa-authorea
+  url: https://www.authorea.com/users/291588-tommi-saltiola
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
