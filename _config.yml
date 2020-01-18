@@ -24,9 +24,9 @@ linkedin_username: tommisaltiola
 
 # Additional icon links
 additional_links:
-- title: Authorea
-  icon: fas fa-project-diagram
-  url: https://www.authorea.com/users/291588-tommi-saltiola
+#- title: Authorea
+#  icon: fas fa-project-diagram
+#  url: https://www.authorea.com/users/291588-tommi-saltiola
 
 - title: ResearchGate
   icon: fab fa-researchgate # (https://fontawesome.com/icons?d=gallery&s=brands&m=free)

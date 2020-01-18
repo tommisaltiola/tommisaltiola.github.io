@@ -35,6 +35,7 @@ button, input[type="button"], input[type="reset"], input[type="submit"] {
     button:disabled:hover, input[type="button"]:disabled:hover, input[type="reset"]:disabled:hover, input[type="submit"]:disabled:hover {
       background-color: #477dca; }
 
+
 fieldset {
   background-color: #f7f7f7;
   border: 1px solid #ddd;
@@ -238,4 +239,8 @@ body {
   .no-print, .no-print * {
     display: none !important;
   }
+}
+
+.tommi-custom-link-button:hover {
+  -webkit-filter: invert(100%) !important;
 }
